@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Duc Huynh
-I'm a software developer specializing in full stack mobile robot development. My passion lies at the intersection of robotics, Linux, Homelab and devOps.
+I'm a software developer specializing in full stack mobile-robot development. My passion lies at the intersection of robotics, Linux, Homelab and devOps.
 <!--
 **huynhduc9905/huynhduc9905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
